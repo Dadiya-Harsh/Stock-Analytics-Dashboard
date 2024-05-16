@@ -17,7 +17,7 @@ The Stock Analytics Dashboard project aims to provide valuable insights for info
 - Watson Studio for collaborative project development
 
 ## Installation:
-1. Clone the repository: `git clone https://github.com/yourusername/stock-analytics-dashboard.git`
+1. Clone the repository: `git clone https://github.com/Dadiya-Harsh/Stock-Analytics-Dashboard-Extracting-Insights-for-Informed-Investments.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage:
